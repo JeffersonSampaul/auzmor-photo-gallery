@@ -1,0 +1,2 @@
+class PtiLabelField < ApplicationRecord
+end
